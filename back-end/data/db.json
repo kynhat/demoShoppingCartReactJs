@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "thuong",
+      "amount": 2,
+      "title": "Túi xách",
+      "price": 1000,
+      "image": "https://cdn-jms.woka.io/media/catalog/product/cache/df24c858758eb768757877f23cd17493/b/a/bally-mens-staz-black-leather-business-bag-6207733.jpg?width=350&height=350",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "category": "thuong",
+      "amount": 3,
+      "title": "Áo sơ mi",
+      "price": 2000,
+      "image": "https://cdn-amz.woka.io/images/I/71LB-jVyW8L._SR200,200_.jpg",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "title": "Đồng hồ",
+      "price": 3000,
+      "category": "cao cap",
+      "amount": 4,
+      "image": "https://cdn-jms.woka.io/media/catalog/product/o/r/orient-triton-automatic-black-dial-mens-watch-raac0k01b10b_1.jpg",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "title": "quần jean",
+      "price": 4000,
+      "category": "cao cap",
+      "amount": 7,
+      "image": "https://cdn-amz.woka.io/images/I/81iqFt1HLpL._SR200,200_.jpg",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "title": "quần jean",
+      "price": 14000,
+      "category": "cao cap",
+      "amount": 7,
+      "image": "https://cdn-amz.woka.io/images/I/81iqFt1HLpL._SR200,200_.jpg",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "title": "quần jean",
+      "price": 44000,
+      "category": "cao cap",
+      "amount": 7,
+      "image": "https://cdn-amz.woka.io/images/I/81iqFt1HLpL._SR200,200_.jpg",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "title": "quần jean",
+      "price": 33000,
+      "category": "cao cap",
+      "amount": 7,
+      "image": "https://cdn-amz.woka.io/images/I/81iqFt1HLpL._SR200,200_.jpg",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "title": "quần jean",
+      "price": 11000,
+      "category": "cao cap",
+      "amount": 7,
+      "image": "https://cdn-amz.woka.io/images/I/81iqFt1HLpL._SR200,200_.jpg",
+      "description": ""
+    }
+  ],
+  "checkouts":[]
+}
